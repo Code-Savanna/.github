@@ -67,7 +67,7 @@ Welcome to the Code Savanna Best Practices Guide! This document outlines the sta
 
 ## 2. Version Control Practices
 
-We use Git for version control, hosted on [GitHub](https://github.com/CodeSavanna).
+We use Git for version control, hosted on [GitHub](https://github.com/Code-Savanna).
 
 ### 2.1 Commits
 
