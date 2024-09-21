@@ -15,7 +15,7 @@ We believe that **bridging the digital divide** and fostering **innovation** are
 
 ### 🌱 Get Involved:
 
-- Check out our [Contribution Guidelines](#) to learn how you can support our mission!
+- Check out our [Contribution Guidelines](./CONTRIBUTING.md) to learn how you can support our mission!
 - Explore our [Resources](#) and learn more about how you can contribute to our community projects.
 
 ### 📚 Useful Resources:
