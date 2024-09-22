@@ -113,7 +113,7 @@ Let’s build a better tomorrow, one commit at a time!
 ---
 
 ### Useful Links:
-- [Code Savanna GitHub Organization](https://github.com/CodeSavanna)
+- [Code Savanna GitHub Organization](https://github.com/Code-Savanna)
 - [Contribution Guidelines](./CONTRIBUTING.md)
 - [Code of Conduct](./CONDUCT.md)
 - [Issues and Feature Requests](./ISSUES.md)
