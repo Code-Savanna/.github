@@ -1,5 +1,3 @@
-Here’s a comprehensive **Code of Conduct** for Code Savanna. This document aims to foster a positive, inclusive, and welcoming environment for everyone contributing to or interacting with Code Savanna's open-source projects.
-
 ---
 
 # Code Savanna Code of Conduct
