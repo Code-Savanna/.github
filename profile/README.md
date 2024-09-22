@@ -20,8 +20,9 @@ We believe that **bridging the digital divide** and fostering **innovation** are
 
 ### 📚 Useful Resources:
 
-- [How to Get Started with GitHub](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- [How to Get Started with Our Blogging Platform](https://blog.codesavanna.org/post/dive-into-the-future-of-tech-with-us/)
 - [Open Source at Code Savanna](#)
+- [Code of Conduct at Code Savanna](#)
 
 ---
 
